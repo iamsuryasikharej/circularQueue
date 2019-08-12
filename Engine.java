@@ -10,7 +10,6 @@ class Engine
 		obj.disp();
 		System.out.println(obj.dequeue()+"dequeued");
 		obj.disp();
-		System.out.println("njcsbsd");
 		obj.enqueue(88);
 		System.out.println(obj.dequeue()+"dekds");
 		obj.enqueue(99);
